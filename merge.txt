@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content adding from master Branch
+=======
+Content adding from git branch
+>>>>>>> gitBranch
